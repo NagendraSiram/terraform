@@ -1,7 +1,7 @@
 # Terraform
 
 - infrastructure as code
-- Declartive 
+- Declarative 
 
 - AMI - Amazon Machine Image
 - VPC - Virtual Private Cloud
