@@ -3,7 +3,10 @@
 - infrastructure as code
 - Declartive 
 
-##### Commands
+- AMI - Amazon Machine Image
+- VPC - Virtual Private Cloud
+
+**Commands**
 
 > terraform -v
 
